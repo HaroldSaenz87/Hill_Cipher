@@ -1,29 +1,6 @@
-/*=============================================================================
-| Assignment: pa01 - Encrypting a plaintext file using the Hill cipher
-|
-| Author: Harold Saenz
-| Language: Java
-|
-| To Compile: javac pa01.java
-| gcc -o pa01 pa01.c
-| g++ -o pa01 pa01.cpp
-| go build pa01.go
-|
-| To Execute: java -> java pa01 kX.txt pX.txt
-| or c++ -> ./pa01 kX.txt pX.txt
-| or c -> ./pa01 kX.txt pX.txt
-| or go -> ./pa01 kX.txt pX.txt
-| or python -> python3 pa01.py kX.txt pX.txt
-| where kX.txt is the keytext file
-| and pX.txt is plaintext file
-|
-| Note: All input files are simple 8 bit ASCII input
-|
-| Class: CIS3360 - Security in Computing - Summer 2023
-| Instructor: McAlpin
-| Due Date: 06-23-23
-|
-+=============================================================================*/
+/*
+Author: Harold Saenz
+*/
 
 import java.io.BufferedReader;
 import java.io.File;
